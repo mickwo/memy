@@ -1,0 +1,40 @@
+<svg width="1600" height="960" viewBox="0 0 1600 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_2)">
+<rect width="1600" height="960" fill="url(#paint0_linear_1_2)"/>
+<circle cx="6.68315" cy="6.68315" r="6.68315" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 696.366 194.366)" fill="#FFB366"/>
+<circle cx="134.683" cy="907.683" r="6.68315" transform="rotate(-90 134.683 907.683)" fill="#66E3FF"/>
+<circle cx="6.68315" cy="6.68315" r="6.68315" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 744.228 573.664)" fill="#66E3FF"/>
+<circle cx="6.68315" cy="6.68315" r="6.68315" transform="matrix(-4.37114e-08 1 1 4.37114e-08 860.706 770.836)" fill="#66E3FF"/>
+<circle cx="6.68315" cy="6.68315" r="6.68315" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 1024.92 117.301)" fill="#FFB366"/>
+<circle cx="254.449" cy="523.063" r="6.68315" transform="rotate(90 254.449 523.063)" fill="#FFB366"/>
+<circle cx="1430.68" cy="307.293" r="4.77368" transform="rotate(90 1430.68 307.293)" fill="white"/>
+<circle cx="4.77368" cy="4.77368" r="4.77368" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 635.389 273.878)" fill="white"/>
+<circle cx="4.77368" cy="4.77368" r="4.77368" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 1063.11 520.199)" fill="white"/>
+<circle cx="4.77368" cy="4.77368" r="4.77368" transform="matrix(-4.37114e-08 1 1 4.37114e-08 541.825 824.301)" fill="white"/>
+<circle cx="294.548" cy="118.256" r="4.77368" transform="rotate(90 294.548 118.256)" fill="white"/>
+<circle cx="1453.77" cy="599.774" r="4.77368" transform="rotate(90 1453.77 599.774)" fill="white"/>
+<circle cx="217.774" cy="778.774" r="4.77368" transform="rotate(-90 217.774 778.774)" fill="white"/>
+<circle cx="4.77368" cy="4.77368" r="4.77368" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 1101.3 191.77)" fill="white"/>
+<circle cx="1272.2" cy="897.815" r="4.77368" transform="rotate(-90 1272.2 897.815)" fill="white"/>
+<circle cx="1260.74" cy="503.969" r="4.77368" transform="rotate(90 1260.74 503.969)" fill="white"/>
+<circle cx="4.77368" cy="4.77368" r="4.77368" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 814.547 82.5474)" fill="white"/>
+<circle cx="1472.69" cy="724.054" r="4.77368" transform="rotate(-90 1472.69 724.054)" fill="white"/>
+<circle cx="1291.29" cy="372.215" r="6.68315" transform="rotate(90 1291.29 372.215)" fill="#FFB366"/>
+<circle cx="6.68315" cy="6.68315" r="6.68315" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 364.244 241.416)" fill="#66E3FF"/>
+<circle cx="1195.68" cy="26.6831" r="6.68315" transform="rotate(90 1195.68 26.6831)" fill="#66E3FF"/>
+<circle cx="111.239" cy="32.3294" r="6.68315" transform="rotate(90 111.239 32.3294)" fill="#66E3FF"/>
+<circle cx="1134.72" cy="370.306" r="4.77368" transform="rotate(90 1134.72 370.306)" fill="#66E3FF"/>
+<circle cx="1427.82" cy="178.404" r="1.90947" transform="rotate(90 1427.82 178.404)" fill="white"/>
+<circle cx="1.90947" cy="1.90947" r="1.90947" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 820.607 564.117)" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_2" x1="800" y1="0" x2="800" y2="960" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E0F2FF"/>
+<stop offset="0.5" stop-color="#C7E7FF"/>
+<stop offset="1" stop-color="#A5D8FF"/>
+</linearGradient>
+<clipPath id="clip0_1_2">
+<rect width="1600" height="960" fill="white"/>
+</clipPath>
+</defs>
+</svg>
